@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: rackspace.api.streamdata.gallery
+title: Streamdata Gallery Rackspace
+url: rackspace.streamdata.gallery
 tag: Rackspace
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: rackspace
 github_branch: master
 collections:
