@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/241-racksp
 x-kinRank: "9"
 x-alexaRank: "4115"
 tags: Rackspace
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-19"
+modified: "2018-06-19"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/apis.md
 specificationVersion: "0.14"
 apis:
@@ -25,9 +25,9 @@ apis:
   tags: Limits
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountlimits-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountlimits-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountlimits-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountlimits-get-openapi.md
 - name: Rackspace Show limits
   x-api-slug: rackspace
   description: |-
@@ -41,9 +41,9 @@ apis:
   tags: Limits
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountlimitstype-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountlimitstype-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountlimitstype-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountlimitstype-get-openapi.md
 - name: Rackspace List limit types
   x-api-slug: rackspace
   description: |-
@@ -56,9 +56,9 @@ apis:
   tags: Limits
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountlimitstypes-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountlimitstypes-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountlimitstypes-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountlimitstypes-get-openapi.md
 - name: Rackspace List domains
   x-api-slug: rackspace
   description: |-
@@ -73,9 +73,9 @@ apis:
   tags: Domains
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomains-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomains-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomains-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomains-get-openapi.md
 - name: Rackspace Create domain
   x-api-slug: rackspace
   description: |-
@@ -89,9 +89,9 @@ apis:
   tags: Domains
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomains-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomains-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomains-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomains-post-openapi.md
 - name: Rackspace Update domains
   x-api-slug: rackspace
   description: |-
@@ -104,9 +104,9 @@ apis:
   tags: Domains
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomains-put-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomains-put-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomains-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomains-put-openapi.md
 - name: Rackspace Delete domains
   x-api-slug: rackspace
   description: |-
@@ -119,9 +119,9 @@ apis:
   tags: Domains
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomains-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomains-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomains-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomains-delete-openapi.md
 - name: Rackspace Search domains
   x-api-slug: rackspace
   description: 'NoteFilter criteria may consist of:'
@@ -132,9 +132,9 @@ apis:
   tags: Domains
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainssearch-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainssearch-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainssearch-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainssearch-get-openapi.md
 - name: Rackspace List domain details without subdomains
   x-api-slug: rackspace
   description: |-
@@ -148,9 +148,9 @@ apis:
   tags: Domains
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainid-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainid-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainid-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainid-get-openapi.md
 - name: Rackspace Update domain
   x-api-slug: rackspace
   description: |-
@@ -164,9 +164,9 @@ apis:
   tags: Domains
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainid-put-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainid-put-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainid-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainid-put-openapi.md
 - name: Rackspace Delete domain
   x-api-slug: rackspace
   description: |-
@@ -179,9 +179,9 @@ apis:
   tags: Domains
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainid-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainid-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainid-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainid-delete-openapi.md
 - name: Rackspace Show domain changes
   x-api-slug: rackspace
   description: |-
@@ -197,9 +197,9 @@ apis:
   tags: Domains
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidchanges-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidchanges-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidchanges-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidchanges-get-openapi.md
 - name: Rackspace Export domain
   x-api-slug: rackspace
   description: |-
@@ -212,9 +212,9 @@ apis:
   tags: Domains
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidexport-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidexport-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidexport-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidexport-get-openapi.md
 - name: Rackspace Clone domain
   x-api-slug: rackspace
   description: |-
@@ -227,9 +227,9 @@ apis:
   tags: Domains
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidclone-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidclone-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidclone-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidclone-post-openapi.md
 - name: Rackspace Import domain
   x-api-slug: rackspace
   description: |-
@@ -242,9 +242,9 @@ apis:
   tags: Domains
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsimport-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsimport-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsimport-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsimport-post-openapi.md
 - name: Rackspace List subdomains
   x-api-slug: rackspace
   description: |-
@@ -258,9 +258,9 @@ apis:
   tags: Subdomains
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidsubdomains-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidsubdomains-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidsubdomains-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidsubdomains-get-openapi.md
 - name: Rackspace List records
   x-api-slug: rackspace
   description: This call lists all records configured for the specified domain.Note
@@ -271,9 +271,9 @@ apis:
   tags: Records
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidrecords-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidrecords-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidrecords-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidrecords-get-openapi.md
 - name: Rackspace Delete records
   x-api-slug: rackspace
   description: |-
@@ -286,9 +286,9 @@ apis:
   tags: Records
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidrecords-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidrecords-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidrecords-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidrecords-delete-openapi.md
 - name: Rackspace Update records
   x-api-slug: rackspace
   description: |-
@@ -302,9 +302,9 @@ apis:
   tags: Records
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidrecords-put-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidrecords-put-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidrecords-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidrecords-put-openapi.md
 - name: Rackspace Delete record
   x-api-slug: rackspace
   description: |-
@@ -317,9 +317,9 @@ apis:
   tags: Records
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidrecordsrecordid-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidrecordsrecordid-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidrecordsrecordid-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidrecordsrecordid-delete-openapi.md
 - name: Rackspace Update record
   x-api-slug: rackspace
   description: |-
@@ -333,9 +333,9 @@ apis:
   tags: Records
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidrecordsrecordid-put-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidrecordsrecordid-put-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidrecordsrecordid-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidrecordsrecordid-put-openapi.md
 - name: Rackspace Show record details
   x-api-slug: rackspace
   description: 'This call lists details for a specified record in the specified domain.This
@@ -347,9 +347,9 @@ apis:
   tags: Records
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidrecordsrecordid-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidrecordsrecordid-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountdomainsdomainidrecordsrecordid-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountdomainsdomainidrecordsrecordid-get-openapi.md
 - name: Rackspace Update PTR records
   x-api-slug: rackspace
   description: |-
@@ -363,9 +363,9 @@ apis:
   tags: Reverse DNS
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountrdns-put-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountrdns-put-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountrdns-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountrdns-put-openapi.md
 - name: Rackspace Add PTR records
   x-api-slug: rackspace
   description: |-
@@ -379,9 +379,9 @@ apis:
   tags: Reverse DNS
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountrdns-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountrdns-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountrdns-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountrdns-post-openapi.md
 - name: Rackspace List PTR records
   x-api-slug: rackspace
   description: 'This call lists all PTR records configured for a specified Cloud device.This
@@ -393,9 +393,9 @@ apis:
   tags: Reverse DNS
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountrdnsservicename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountrdnsservicename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountrdnsservicename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountrdnsservicename-get-openapi.md
 - name: Rackspace Delete PTR records
   x-api-slug: rackspace
   description: |-
@@ -408,9 +408,9 @@ apis:
   tags: Reverse DNS
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountrdnsservicename-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountrdnsservicename-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountrdnsservicename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountrdnsservicename-delete-openapi.md
 - name: Rackspace Show PTR record
   x-api-slug: rackspace
   description: |-
@@ -423,9 +423,9 @@ apis:
   tags: Reverse DNS
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountrdnsservicenamerecordid-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountrdnsservicenamerecordid-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v10accountrdnsservicenamerecordid-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/v1-0accountrdnsservicenamerecordid-get-openapi.md
 - name: Rackspace
   x-api-slug: rackspace
   description: Host on our dedicated or cloud infrastructure or through one of our
