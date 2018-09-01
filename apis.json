@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Rackspace",
+	"description": "This is a repository of rackspace APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/rackspace.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-31",
+	"url": "http://rackspace.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Rackspace",
+			"x-api-slug": "rackspace",
+			"description": "Host on our dedicated or cloud infrastructure or through one of our partners. Leverage our expertise to run fast and lean. We offer web, app or email hosting, data services and managed security solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/241-rackspace.jpg",
+			"humanURL": "http://www.rackspace.com/",
+			"baseURL": "https:///",
+			"tags": "Rackspace",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Rackspace",
+	"include": [
+		{
+			"name": "Rackspace",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/rackspace/master/_listings/rackspace/apis.yaml"
+		}
+	]
+}
